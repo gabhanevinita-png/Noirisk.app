@@ -4,7 +4,7 @@ Predicting hour-by-hour festival noise levels and translating them into a risk s
 vulnerable groups (children, the elderly, pregnant people, and pets), using real municipal
 noise-monitoring data from Mumbai and a from-scratch spatial + temporal modeling pipeline.
 
-**[Live demo →](#) &nbsp;·&nbsp; [Open the notebook in Colab →](#)**
+**[Live demo  https://leafy-travesseiro-ed37e3.netlify.app
 
 > Replace the links above once this is pushed to GitHub / hosted.
 
